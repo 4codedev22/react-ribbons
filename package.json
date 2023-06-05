@@ -25,8 +25,7 @@
   },
   "homepage": "https://github.com/emanuelescarabattoli/react-ribbons#readme",
   "scripts": {
-    "build": "webpack --mode production",
-    "postinstall": "webpack --mode production"
+    "build": "webpack --mode production"
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",
