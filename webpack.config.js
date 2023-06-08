@@ -8,7 +8,8 @@ module.exports = {
     library: "react-ribbons",
     libraryTarget: "umd",
     publicPath: "/",
-    umdNamedDefine: true
+    umdNamedDefine: true,
+    globalObject: 'this'
   },
   resolve: {
     alias: {
